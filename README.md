@@ -2,7 +2,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI : https://ai.studio/apps/48581f02-5103-460d-964c-f9897799b98b
+View your app in AI : https://github.com/Jayesh01323/Binance-Trading-Bot
 
 ## Run Locally
 
