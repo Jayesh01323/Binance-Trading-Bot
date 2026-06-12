@@ -1,0 +1,2 @@
+2026-06-12 12:00:00 | INFO  | Request: method=POST path=/fapi/v1/order symbol=BTCUSDT side=BUY quantity=0.001
+2026-06-12 12:00:01 | INFO  | Response: Status=200 Body={'orderId': 123456, 'symbol': 'BTCUSDT', 'status': 'FILLED', 'clientOrderId': 'abc', 'price': '0.00', 'avgPrice': '104250.50', 'origQty': '0.001', 'executedQty': '0.001', 'type': 'MARKET', 'side': 'BUY', 'updateTime': 1781285222000}

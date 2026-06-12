@@ -1,0 +1,6 @@
+{
+  "name": "Binance Futures Trading Bot",
+  "description": "Interactive workspace and simulator for a production-grade Python trading bot interacting with the Binance Futures Testnet (USDT-M).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

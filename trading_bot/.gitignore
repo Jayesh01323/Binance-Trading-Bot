@@ -1,0 +1,21 @@
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables containing real API credentials
+.env
+
+# System logs
+logs/*.log
+logs/
+
+# IDE / Project structures
+.vscode/
+.idea/
+.venv/
+env/
+venv/
+lib/
+lib64/

@@ -1,0 +1,2 @@
+2026-06-12 12:05:00 | INFO  | Request: method=POST path=/fapi/v1/order symbol=BTCUSDT side=SELL quantity=0.001 price=100000
+2026-06-12 12:05:00 | INFO  | Response: Status=200 Body={'orderId': 123457, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'abc_limit', 'price': '100000.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.00', 'type': 'LIMIT', 'side': 'SELL', 'timeInForce': 'GTC', 'updateTime': 1781285522000}
